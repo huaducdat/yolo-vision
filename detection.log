@@ -1,0 +1,8 @@
+2026-10-07 21:28:51,658 | INFO | image=aa784153a5b74e91834d1acfd80f63ff.png | bytes=604058 | objects=3 | classes=sports ball,person,person | seconds=3.52
+2026-10-07 21:45:06,024 | INFO | image=f041eddfa1554431a0966ebbe10713d5.png | bytes=604058 | objects=3 | classes=sports ball,person,person | seconds=0.90
+2026-10-07 21:45:27,339 | INFO | image=e68f11738c7e4e7e9ed7edea5f3148f1.png | bytes=1875264 | objects=2 | classes=person,motorcycle | seconds=0.15
+2026-10-07 21:45:48,488 | INFO | image=8e4c6373ae3146719409e102ae5666cf.png | bytes=786836 | objects=4 | classes=person,person,person,person | seconds=0.06
+2026-10-07 21:47:21,792 | INFO | image=7accd7440dae4c0ca54113d3eff97581.png | bytes=604058 | objects=3 | classes=sports ball,person,person | seconds=0.09
+2026-10-07 21:47:52,218 | INFO | image=31798d235b9f414392b1511781f91b8e.png | bytes=786836 | objects=4 | classes=person,person,person,person | seconds=0.08
+2026-10-07 21:48:01,649 | INFO | image=ad9eac8144814b879070ab9a8bba4791.png | bytes=604058 | objects=3 | classes=sports ball,person,person | seconds=0.06
+2026-10-07 22:02:33,278 | INFO | mode=segment-person | image=d5bb8fbd96e74d6da62ce24119512f84.png | bytes=604058 | objects=1 | classes=person | seconds=0.91
